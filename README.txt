@@ -6,4 +6,12 @@ entering the following command in terminal:
 ```cd dev/shell``` to enter the directory where the shell is
 ```sh  mac_OS_sequoia.sh``` to run the .sh file, which shows the logo.
 
+```
+cd dev/shell 
+```
+
+```
+sh  mac_OS_sequoia.sh
+```
+
 I've included screenshots of the different versions just to be able to get a peek at how it looks.
