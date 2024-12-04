@@ -4,7 +4,9 @@ It is a nice color image of the classic Apple logo along with ASCII text art for
 
 If the script is located at user/dev/shell, then it can be called by
 entering the following command in terminal:
-```cd dev/shell``` to enter the directory where the shell is
+
+```cd dev/shell``` to enter the directory where the shell is;
+
 ```sh  mac_OS_sequoia.sh``` to run the .sh file, which shows the logo.
 
 I've included screenshots of the different versions just to be able to get a peek at how it looks.
